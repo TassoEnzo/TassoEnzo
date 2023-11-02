@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**TassoEnzo/TassoEnzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Ola! Eu sou Enzo Tasso
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<div>
+  https://github-readme-stats.vercel.app/api?username=TassoEnzo
+  https://github.com/TassoEnzo/github-readme-stats
+</div>
