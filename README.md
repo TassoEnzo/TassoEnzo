@@ -9,6 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <div>
-  https://github-readme-stats.vercel.app/api?username=TassoEnzo
-  https://github.com/TassoEnzo/github-readme-stats
+  [![TassoEnzo's GitHub stats]
+  (https://github-readme-stats.vercel.app/api?username=TassoEnzo)]
+  (https://github.com/TassoEnzo/github-readme-stats)
 </div>
