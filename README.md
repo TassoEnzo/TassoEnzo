@@ -4,6 +4,7 @@
 
 ___
 
+<p>
 <h1 align="center">
   ⚡Stats⚡
 </h1>
