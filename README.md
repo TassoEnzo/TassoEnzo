@@ -1,5 +1,9 @@
 ### Ola! Eu sou Enzo Tasso
 <p align="center">
+  <img src="URL-do-seu-arquivo.svg" />
+</p>
+
+<p align="center">
   <img src="https://github.com/TassoEnzo/TassoEnzo/raw/main/Assets/typing-enzo.svg" />
 </p>
 
