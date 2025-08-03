@@ -1,52 +1,52 @@
-<svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+</style>
+
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .text {
-      font-size: 36px;
-      font-family: sans-serif;
-    }
-    .letter {
+    text {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 48px;
+      fill: white;
+      animation: fadeIn 0.5s forwards;
       opacity: 0;
-      animation: appear 0.5s forwards;
     }
 
-    /* Animação que mostra a letra */
-    @keyframes appear {
-      to {
-        opacity: 1;
-        fill: hsl(var(--hue), 100%, 50%);
-      }
+    @keyframes fadeIn {
+      to { opacity: 1; }
     }
 
-    /* Animação para desaparecer */
-    @keyframes disappear {
-      to {
-        opacity: 0;
-      }
-    }
+    .l1 { animation-delay: 0s; }
+    .l2 { animation-delay: 0.2s; }
+    .l3 { animation-delay: 0.4s; }
+    .l4 { animation-delay: 0.6s; }
+    .l5 { animation-delay: 0.8s; }
+    .l6 { animation-delay: 1s; }
+    /* ... e por aí vai, para cada letra */
   </style>
 
-  <text x="20" y="50" class="text">
-    <tspan class="letter" style="animation-delay:0s; --hue:20">O</tspan>
-    <tspan class="letter" style="animation-delay:0.5s; --hue:120">l</tspan>
-    <tspan class="letter" style="animation-delay:1s; --hue:240">á</tspan>
-    <tspan class="letter" style="animation-delay:1.5s; --hue:300">!</tspan>
-  </text>
-
-  <text x="20" y="90" class="text">
-    <tspan class="letter" style="animation-delay:3s; --hue:30">M</tspan>
-    <tspan class="letter" style="animation-delay:3.5s; --hue:150">e</tspan>
-    <tspan class="letter" style="animation-delay:4s; --hue:200"> </tspan>
-    <tspan class="letter" style="animation-delay:4.5s; --hue:90">c</tspan>
-    <tspan class="letter" style="animation-delay:5s; --hue:60">h</tspan>
-    <tspan class="letter" style="animation-delay:5.5s; --hue:180">a</tspan>
-    <tspan class="letter" style="animation-delay:6s; --hue:270">m</tspan>
-    <tspan class="letter" style="animation-delay:6.5s; --hue:330">o</tspan>
-    <tspan class="letter" style="animation-delay:7s; --hue:60"> </tspan>
-    <tspan class="letter" style="animation-delay:7.5s; --hue:10">E</tspan>
-    <tspan class="letter" style="animation-delay:8s; --hue:200">n</tspan>
-    <tspan class="letter" style="animation-delay:8.5s; --hue:120">z</tspan>
-    <tspan class="letter" style="animation-delay:9s; --hue:300">o</tspan>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">
+    <tspan class="l1">O</tspan>
+    <tspan class="l2">l</tspan>
+    <tspan class="l3">á</tspan>
+    <tspan class="l4">!</tspan>
+    <tspan dx="10"></tspan> <!-- espaço -->
+    <tspan class="l5">M</tspan>
+    <tspan class="l6">e</tspan>
+    <tspan class="l7"> </tspan>
+    <tspan class="l8">c</tspan>
+    <tspan class="l9">h</tspan>
+    <tspan class="l10">a</tspan>
+    <tspan class="l11">m</tspan>
+    <tspan class="l12">o</tspan>
+    <tspan class="l13"> </tspan>
+    <tspan class="l14">E</tspan>
+    <tspan class="l15">n</tspan>
+    <tspan class="l16">z</tspan>
+    <tspan class="l17">o</tspan>
   </text>
 </svg>
+
+
 
 
