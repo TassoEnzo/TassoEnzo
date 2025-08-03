@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/TassoEnzo/TassoEnzo/main/Assets/typing-nome.svg" />
 </p>
-<p>
+<p align="center">
   Stats
 </p>
+
 ___
 
 <div>
