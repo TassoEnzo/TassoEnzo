@@ -1,10 +1,5 @@
-### Ola! Eu sou Enzo Tasso
 <p align="center">
-  <img src="typing-nome.svg" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/TassoEnzo/TassoEnzo/raw/main/Assets/typing-enzo.svg" />
+  <img src="https://github.com/TassoEnzo/TassoEnzo/raw/Assets/typing-enzo.svg" />
 </p>
 
 <div>
