@@ -1,6 +1,6 @@
 ### Ola! Eu sou Enzo Tasso
 <p align="center">
-  <img src="https://github.com/TassoEnzo/TassoEnzo/blob/main/assets/typing-enzo.svg" />
+  <img src="https://github.com/TassoEnzo/TassoEnzo/raw/main/Assets/typing-enzo.svg" />
 </p>
 
 <div>
