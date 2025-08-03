@@ -1,48 +1,5 @@
 ### Ola! Eu sou Enzo Tasso
 
-<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .letter {
-      font-family: 'Righteous', sans-serif;
-      font-size: 50px;
-      animation: colorCycle 3s infinite;
-      animation-delay: var(--delay);
-      fill: blue;
-    }
-
-    @keyframes colorCycle {
-      0%   { fill: #ff0000; }
-      25%  { fill: #00ff00; }
-      50%  { fill: #0000ff; }
-      75%  { fill: #ffff00; }
-      100% { fill: #ff0000; }
-    }
-  </style>
-
-  <text x="50" y="70">
-    <tspan class="letter" style="--delay: 0s;">o</tspan>
-    <tspan class="letter" style="--delay: 0.2s;">l</tspan>
-    <tspan class="letter" style="--delay: 0.4s;">á</tspan>
-    <tspan class="letter" style="--delay: 0.6s;">!</tspan>
-    <tspan class="letter" style="--delay: 0.8s;"> </tspan>
-    <tspan class="letter" style="--delay: 1s;">m</tspan>
-    <tspan class="letter" style="--delay: 1.2s;">e</tspan>
-    <tspan class="letter" style="--delay: 1.4s;"> </tspan>
-    <tspan class="letter" style="--delay: 1.6s;">c</tspan>
-    <tspan class="letter" style="--delay: 1.8s;">h</tspan>
-    <tspan class="letter" style="--delay: 2s;">a</tspan>
-    <tspan class="letter" style="--delay: 2.2s;">m</tspan>
-    <tspan class="letter" style="--delay: 2.4s;">o</tspan>
-    <tspan class="letter" style="--delay: 2.6s;"> </tspan>
-    <tspan class="letter" style="--delay: 2.8s;">E</tspan>
-    <tspan class="letter" style="--delay: 3s;">n</tspan>
-    <tspan class="letter" style="--delay: 3.2s;">z</tspan>
-    <tspan class="letter" style="--delay: 3.4s;">o</tspan>
-    <tspan class="letter" style="--delay: 3.6s;">!</tspan>
-  </text>
-</svg>
-
-
 <div>
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=TassoEnzo&show_icons=true&theme=transparent"/>
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
