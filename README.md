@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TassoEnzo/TassoEnzo/raw/main/Assets/typing-enzo.svg" />
+  <img src="https://github.com/TassoEnzo/TassoEnzo/Assets/typing-enzo.svg" />
 </p>
 
 <div>
