@@ -1,6 +1,6 @@
 ### Ola! Eu sou Enzo Tasso
 <p align="center">
-  <img src="URL-do-seu-arquivo.svg" />
+  <img src="typing-nome.svg" />
 </p>
 
 <p align="center">
