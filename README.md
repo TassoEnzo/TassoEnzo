@@ -2,7 +2,9 @@
   <img src="https://raw.githubusercontent.com/TassoEnzo/TassoEnzo/main/Assets/typing-nome.svg" />
 </p>
 <p align="center">
-  Stats
+  <h1>
+    Stats
+  </h1>
 </p>
 
 ___
