@@ -1,4 +1,7 @@
 ### Ola! Eu sou Enzo Tasso
+<p align="center">
+  <img src="https://github.com/TassoEnzo/TassoEnzo/blob/main/assets/typing-enzo.svg" />
+</p>
 
 <div>
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=TassoEnzo&show_icons=true&theme=transparent"/>
