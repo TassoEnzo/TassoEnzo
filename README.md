@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   <img src="https://raw.githubusercontent.com/TassoEnzo/TassoEnzo/main/Assets/typing-nome.svg" />
-</p>
+</h1>
 
 <h1 align="center">
   ⚡Stats⚡
